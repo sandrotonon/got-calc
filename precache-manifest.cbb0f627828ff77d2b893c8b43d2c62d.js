@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/got-calc/static/js/runtime~main.f28e973b.js"
   },
   {
-    "revision": "a056c1b9ef7c37b109a6",
-    "url": "/got-calc/static/js/main.911bce32.chunk.js"
+    "revision": "a819e6ee665db1069d61",
+    "url": "/got-calc/static/js/main.0cea7f57.chunk.js"
   },
   {
-    "revision": "4041f1d75317cf974978",
-    "url": "/got-calc/static/js/2.72c461a0.chunk.js"
+    "revision": "e1c9075ee83cbc88943f",
+    "url": "/got-calc/static/js/2.1ea243ca.chunk.js"
   },
   {
-    "revision": "a056c1b9ef7c37b109a6",
+    "revision": "a819e6ee665db1069d61",
     "url": "/got-calc/static/css/main.15f957c8.chunk.css"
   },
   {
-    "revision": "ac6886d3c06033e3c8add1cd21c73e5a",
+    "revision": "d82b8420c557e6b6921118b0467f68fd",
     "url": "/got-calc/index.html"
   }
 ];

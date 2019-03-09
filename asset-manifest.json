@@ -1,13 +1,13 @@
 {
   "main.css": "/got-calc/static/css/main.15f957c8.chunk.css",
-  "main.js": "/got-calc/static/js/main.911bce32.chunk.js",
-  "main.js.map": "/got-calc/static/js/main.911bce32.chunk.js.map",
+  "main.js": "/got-calc/static/js/main.0cea7f57.chunk.js",
+  "main.js.map": "/got-calc/static/js/main.0cea7f57.chunk.js.map",
   "runtime~main.js": "/got-calc/static/js/runtime~main.f28e973b.js",
   "runtime~main.js.map": "/got-calc/static/js/runtime~main.f28e973b.js.map",
-  "static/js/2.72c461a0.chunk.js": "/got-calc/static/js/2.72c461a0.chunk.js",
-  "static/js/2.72c461a0.chunk.js.map": "/got-calc/static/js/2.72c461a0.chunk.js.map",
+  "static/js/2.1ea243ca.chunk.js": "/got-calc/static/js/2.1ea243ca.chunk.js",
+  "static/js/2.1ea243ca.chunk.js.map": "/got-calc/static/js/2.1ea243ca.chunk.js.map",
   "index.html": "/got-calc/index.html",
-  "precache-manifest.a814caeb92960714ca88bfefb1d6c03e.js": "/got-calc/precache-manifest.a814caeb92960714ca88bfefb1d6c03e.js",
+  "precache-manifest.cbb0f627828ff77d2b893c8b43d2c62d.js": "/got-calc/precache-manifest.cbb0f627828ff77d2b893c8b43d2c62d.js",
   "service-worker.js": "/got-calc/service-worker.js",
   "static/css/main.15f957c8.chunk.css.map": "/got-calc/static/css/main.15f957c8.chunk.css.map",
   "static/media/index.css": "/got-calc/static/media/GameofThrones.cd6001b7.woff2"
