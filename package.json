@@ -1,6 +1,7 @@
 {
   "name": "got-calculator",
   "version": "0.1.0",
+  "homepage": "https://github.com/glur4k/got-calc",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
