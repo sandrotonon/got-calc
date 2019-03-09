@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/glur4k/got-calc/precache-manifest.17502abb8fcb7095a2b213e5c682009d.js"
+  "/got-calc/precache-manifest.a814caeb92960714ca88bfefb1d6c03e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/glur4k/got-calc/index.html", {
+workbox.routing.registerNavigationRoute("/got-calc/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

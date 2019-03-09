@@ -1,14 +1,14 @@
 {
-  "main.css": "/glur4k/got-calc/static/css/main.a68c7427.chunk.css",
-  "main.js": "/glur4k/got-calc/static/js/main.1745d623.chunk.js",
-  "main.js.map": "/glur4k/got-calc/static/js/main.1745d623.chunk.js.map",
-  "runtime~main.js": "/glur4k/got-calc/static/js/runtime~main.b64744fa.js",
-  "runtime~main.js.map": "/glur4k/got-calc/static/js/runtime~main.b64744fa.js.map",
-  "static/js/2.72c461a0.chunk.js": "/glur4k/got-calc/static/js/2.72c461a0.chunk.js",
-  "static/js/2.72c461a0.chunk.js.map": "/glur4k/got-calc/static/js/2.72c461a0.chunk.js.map",
-  "index.html": "/glur4k/got-calc/index.html",
-  "precache-manifest.17502abb8fcb7095a2b213e5c682009d.js": "/glur4k/got-calc/precache-manifest.17502abb8fcb7095a2b213e5c682009d.js",
-  "service-worker.js": "/glur4k/got-calc/service-worker.js",
-  "static/css/main.a68c7427.chunk.css.map": "/glur4k/got-calc/static/css/main.a68c7427.chunk.css.map",
-  "static/media/index.css": "/glur4k/got-calc/static/media/GameofThrones.cd6001b7.woff2"
+  "main.css": "/got-calc/static/css/main.15f957c8.chunk.css",
+  "main.js": "/got-calc/static/js/main.911bce32.chunk.js",
+  "main.js.map": "/got-calc/static/js/main.911bce32.chunk.js.map",
+  "runtime~main.js": "/got-calc/static/js/runtime~main.f28e973b.js",
+  "runtime~main.js.map": "/got-calc/static/js/runtime~main.f28e973b.js.map",
+  "static/js/2.72c461a0.chunk.js": "/got-calc/static/js/2.72c461a0.chunk.js",
+  "static/js/2.72c461a0.chunk.js.map": "/got-calc/static/js/2.72c461a0.chunk.js.map",
+  "index.html": "/got-calc/index.html",
+  "precache-manifest.a814caeb92960714ca88bfefb1d6c03e.js": "/got-calc/precache-manifest.a814caeb92960714ca88bfefb1d6c03e.js",
+  "service-worker.js": "/got-calc/service-worker.js",
+  "static/css/main.15f957c8.chunk.css.map": "/got-calc/static/css/main.15f957c8.chunk.css.map",
+  "static/media/index.css": "/got-calc/static/media/GameofThrones.cd6001b7.woff2"
 }
