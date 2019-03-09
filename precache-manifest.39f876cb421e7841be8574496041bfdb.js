@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/got-calc/static/css/main.15f957c8.chunk.css"
   },
   {
-    "revision": "d82b8420c557e6b6921118b0467f68fd",
+    "revision": "237b235aad0d052c4059592b6e3c0996",
     "url": "/got-calc/index.html"
   }
 ];
